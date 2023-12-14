@@ -1,9 +1,13 @@
 The script requires the following arguments to run: 
-		-h   RedShift Host
-		-u   User name, super admin is required.
-		-P   password for the redshift user
-		-p   RedShift Port
-		-d   Database name
+	
+| Argument  | Explanation |
+| ------------- | ------------- |
+| -h  | RedShift Host  |
+| -p  | RedShift Port  |
+| -d  | Database name  |
+| -u  | Username, privileges required.  |
+| -P  | Password  |  
+		   
 
 Code run exmaple using environment variables:
 
