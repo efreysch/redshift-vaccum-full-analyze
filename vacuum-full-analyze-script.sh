@@ -1,5 +1,5 @@
 # version 1.0
-# Developed by: Erik Freyschuss (inspiration from TheDataGuy)
+# Developed by: Erik Freyschuss (inspiration from TheDataGuy - Copyright (c) 2020 Bhuvanesh)
 
 # Set some default values for all the variables
 host=unset
