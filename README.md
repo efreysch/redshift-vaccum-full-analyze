@@ -5,7 +5,7 @@ The script requires the following arguments to run:
 | -h  | RedShift Host  |
 | -p  | RedShift Port  |
 | -d  | Database name  |
-| -u  | Username, privileges required.  |
+| -u  | Username, privileges required|
 | -P  | Password  |  
 		   
 
